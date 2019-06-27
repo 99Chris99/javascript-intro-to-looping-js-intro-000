@@ -14,5 +14,5 @@ while (number > 0) {
   cosole.log(--number)
 }
 
-  
+
 }
