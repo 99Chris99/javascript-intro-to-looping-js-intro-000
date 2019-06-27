@@ -30,4 +30,3 @@ do {
 while (incrementVariable() <integer)
 
 }
-
