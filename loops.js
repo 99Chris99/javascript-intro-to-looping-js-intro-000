@@ -9,10 +9,8 @@ function forLoop (array){
    return array
  }
 
-whileLoop(number){
+function whileLoop(number){
 while (number > 0) {
   cosole.log(--number)
 }
-
-
 }
