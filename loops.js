@@ -23,7 +23,7 @@ function incrementVariable() {
   return i;
 }
 
-doWhileLoop(integer) {
+function doWhileLoop(integer) {
 do {
   console.log("I run once regardless")
   }
