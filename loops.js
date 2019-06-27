@@ -8,3 +8,11 @@ function forLoop (array){
    }
    return array
  }
+
+whileLoop(number){
+while (number > 0) {
+  cosole.log(--number)
+}
+
+  
+}
