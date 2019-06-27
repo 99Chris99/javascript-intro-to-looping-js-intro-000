@@ -15,7 +15,7 @@ while (number > 0) {
 }
 return ("done")
 }
-
+/*
 var i = 0;
 
 function incrementVariable() {
@@ -28,5 +28,5 @@ do {
   console.log("I run once regardless")
   }
 while (incrementVariable() <integer)
-  
+
 }
